@@ -1,5 +1,4 @@
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+%C3%82ngelo+Silva;Student+and+Tech+enthusiast)](https://git.io/typing-svg)
   
   <a href="https://github.com/AngeloGSilva">
