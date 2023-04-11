@@ -1,5 +1,7 @@
-
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+%C3%82ngelo+Silva;Student+and+Tech+enthusiast)](https://git.io/typing-svg)
+  
   <a href="https://github.com/AngeloGSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeloGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloGSilva&layout=compact&langs_count=7&theme=dracula"/>
