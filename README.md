@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/%C3%A2ngelo-silva-075301229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AngeloGSilva)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AngeloGSilva)](https://github.com/AngeloGSilva/github-readme-activity-graph)
   
   ![Snake animation](https://github.com/AngeloGSilva/AngeloGSilva/blob/output/github-contribution-grid-snake.svg)
 
